@@ -1,0 +1,144 @@
+[
+  {
+    "name": "Coffee Application",
+    "desc": "The Coffee app lets users order their favorite coffees just like food. It offers a quick, convenient way to customize and track coffee deliveries.",
+    "image": "Coffee",
+    "category": "mobile",
+    "links": {
+      "view": "https://www.figma.com/design/rMxOAsmlXjRsEucmR1Bryp/Coffee-Application?node-id=0-1&node-type=canvas&t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "CoinPay App",
+    "desc": "Secure mobile transactions with a simple interface for easy payments and money management.",
+    "image": "CoinPay",
+    "category": "mobile",
+    "links": {
+      "view": "https://www.figma.com/design/m7Dn9C1WMvoJCsfweTS8W8/Coin-Pay?t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "Smart Home",
+    "desc": "Control lights, AC, and devices with one click. Simple interface for easy home automation.",
+    "image": "SmartHome",
+    "category": "mobile",
+    "links": {
+      "view": "https://www.figma.com/design/nOnRH6i5m0fiOtybnDW4C6/Smart-Home?t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "Fashion",
+    "desc": "The Fashion app offers an intuitive design for easy browsing and purchasing clothing. It ensures smooth navigation and quick product selection.",
+    "image": "Classy",
+    
+    "category": "mobile",
+    "links": {
+      "view": "https://www.figma.com/design/B1p11N0Yy2IYtRPF8gSM9D/Fashion-App?t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "Bitezz App Design",
+    "desc": "The Bitezz app provides a seamless, visually appealing pizza-ordering experience with intuitive browsing, easy customization, and real-time updates.",
+    "image": "Bitezz",
+    "category": "mobile",
+    "links": {
+      "view": "https://www.figma.com/design/2ngcYw5WkZVsWFWEuyIj2s/Bitezz?node-id=0-1&node-type=canvas&t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "Admin Panel Design",
+    "desc": "The EV admin panel tracks vehicle status, battery levels, and maintenance. It offers tools for fleet management and performance optimization.",
+    "image": "adminpannel",
+    "category": "website",
+    "links": {
+      "view": "https://www.figma.com/design/YwQv6GtVZbS3cwst1A5OVH/Admin-Panel?t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "Food52",
+    "desc": "The online food ordering website lets users browse menus, customize orders, and track deliveries with ease. It ensures fast, secure service.",
+    "image": "food52",
+    "category": "website",
+    "links": {
+      "view": "https://www.figma.com/design/2jFdlDmBnP559kRzDNDsDe/Food-52?t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "DriveLine",
+    "desc": "Drive Line is an automobile website showcasing detailed vehicle reviews. It offers easy navigation and insightful content.",
+    "image": "driveline",
+    "category": "website",
+    "links": {
+      "view": "https://www.figma.com/design/Xec4IMEA2FRl1T0RcFVWnu/Driveline?t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "Cooked",
+    "desc": "Cooked is a website where top chefs share their best recipes. It offers an easy-to-navigate platform for discovering and trying new dishes.",
+    "image": "cooked",
+    "category": "website",
+    "links": {
+      "view": "https://www.figma.com/design/jdanjQxzTTgafw0wxtoiFh/Cooked?t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "E-Commerce Website Design",
+    "desc": "The e-commerce design offers easy navigation, secure checkout, fast loading, and visually appealing shopping with accessible promotions.",
+    "image": "ecommerce",
+    "category": "website",
+    "links": {
+      "view": "https://www.figma.com/design/jdanjQxzTTgafw0wxtoiFh/Cooked?t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "Weather App Re-Design",
+    "desc": "The Weather app redesign offers a sleek, user-friendly interface for real-time updates. It enhances navigation and visual appeal for a better experience.",
+    "image": "weather",
+    "category": "mobile",
+    "links": {
+      "view": "https://www.figma.com/design/P25JuMeLHSSbRJcU7Ji0x2/Weather-App-Re-Design?node-id=2-2214&node-type=canvas&t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "Crypto Tracker",
+    "desc": "The Crypto Tracker app provides an intuitive interface for real-time cryptocurrency price tracking. It ensures easy navigation and seamless updates.",
+    "image": "crypto",
+    "category": "mobile",
+    "links": {
+      "view": "https://www.figma.com/design/XszwdXn0yjQLDn6py1tzkT/Crypto-Tracker?node-id=0-1&node-type=canvas&t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "Calories",
+    "desc": "Calories is a gym app for learning workouts and tracking fitness progress. It offers a user-friendly interface and personalized plans.",
+    "image": "calories",
+    "category": "mobile",
+    "links": {
+      "view": "https://www.figma.com/design/b5s9y39zZPvp6IQp7E6Riw/Calories?node-id=88-314&node-type=canvas&t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  },
+  {
+    "name": "Ezz Stays",
+    "desc": "Ezz Stays is a mobile app for seamless hotel booking with an intuitive interface. It simplifies browsing and reservation.",
+    "image": "stays",
+    "category": "mobile",
+    "links": {
+      "view": "https://www.figma.com/design/0OxToonqKkLb5QPzucRGGf/Ezz-Stays?node-id=831-597&node-type=canvas&t=kPsFVPEiPdNdFd1t-0"
+      
+    }
+  }
+  
+]
