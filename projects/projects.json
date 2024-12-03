@@ -2,7 +2,7 @@
   {
     "name": "Coffee Application",
     "desc": "The Coffee app lets users order their favorite coffees just like food. It offers a quick, convenient way to customize and track coffee deliveries.",
-    "image": "/assets/images/projects/Coffee.png",
+    "image": "/portfolio/assets/images/projects/Coffee.png",
     "category": "mobile",
     "links": {
       "view": "https://www.figma.com/design/rMxOAsmlXjRsEucmR1Bryp/Coffee-Application?node-id=0-1&node-type=canvas&t=kPsFVPEiPdNdFd1t-0"
