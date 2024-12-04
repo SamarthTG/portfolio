@@ -177,29 +177,6 @@
 
   <div class="box-container">
 
-<script>
-  // Example array of project image names
-  let projects = [
-    { image: 'Bitezz' },
-    { image: 'CoinPay' },
-    { image: 'Coffee' }
-    // Add as many projects as you want
-  ];
-
-  // Loop through each project and create an image element
-  projects.forEach(project => {
-    // Create an image element dynamically
-    let img = document.createElement('img');
-    img.src = `/portfolio/assets/images/projects/${project.image}.png`;  // Dynamically setting the image source
-    img.alt = "project";  // Alternative text for the image
-    img.draggable = false;  // Prevent image from being dragged
-
-    // Append the image to a specific part of your HTML (e.g., to the body or a container)
-    document.body.appendChild(img);
-  });
-</script>
-
-
     
         <!-- <div class="box tilt">
       <img draggable="false" src="./assets/images/projects/portfolio1.PNG" alt="" />
